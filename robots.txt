@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://L0snight.github.io/sitemap.xml
